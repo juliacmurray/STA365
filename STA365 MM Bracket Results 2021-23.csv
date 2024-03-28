@@ -1,0 +1,190 @@
+﻿TeamA,TeamB,Year,Round,A_win
+Purdue,FDU,2023,1,0
+Memphis,Florida Atlantic,2023,1,0
+Duke,Oral Roberts,2023,1,1
+Tennessee,Louisiana,2023,1,1
+Kentucky,Providence,2023,1,1
+Kansas State,Montana State,2023,1,1
+Michigan State,USC,2023,1,1
+Marquette,Vermont,2023,1,1
+FDU,Florida Atlantic,2023,2,0
+Duke,Tennessee,2023,2,0
+Kentucky,Kansas State,2023,2,0
+Michigan State,Marquette,2023,2,1
+Florida Atlantic,Tennessee,2023,3,1
+Kansas State,Michigan State,2023,3,1
+Florida Atlantic,Kansas State,2023,4,1
+Houston,Northern Kentucky,2023,1,1
+Iowa,Auburn,2023,1,0
+Miami (FL),Drake,2023,1,1
+Indiana,Kent State,2023,1,1
+Iowa State,Pitt,2023,1,0
+Xavier,Kennesaw State,2023,1,1
+Texas A&M,Penn State,2023,1,0
+Texas,Colgate,2023,1,1
+Houston,Auburn,2023,2,1
+Miami (FL),Indiana,2023,2,1
+Pitt,Xavier,2023,2,0
+Penn State,Texas,2023,2,0
+Houston,Miami (FL),2023,3,0
+Xavier,Texas,2023,3,0
+Miami (FL),Texas,2023,4,1
+Alabama,Texas A&M - Corpus Christi,2023,1,1
+Maryland,West Virginia,2023,1,1
+San Diego State,College of Charleston,2023,1,1
+Virginia,Furman,2023,1,0
+Creighton,NC State,2023,1,1
+Baylor,UCSB,2023,1,1
+Missouri,Utah State,2023,1,1
+Arizona,Princeton,2023,1,0
+Alabama,Maryland,2023,2,1
+San Diego State,Furman,2023,2,1
+Creighton,Baylor,2023,2,1
+Missouri,Princeton,2023,2,0
+Alabama,San Diego State,2023,3,0
+Creighton,Princeton,2023,3,1
+San Diego State,Creighton,2023,4,1
+Kansas,Howard,2023,1,1
+Arkansas,Illinois,2023,1,1
+Saint Mary's,VCU,2023,1,1
+UConn,Iona,2023,1,1
+TCU,Arizona State,2023,1,1
+Gonzaga,Grand Canyon,2023,1,1
+Northwestern,Boise State,2023,1,1
+UCLA,UNC Asheville,2023,1,1
+Kansas,Arkansas,2023,2,0
+Saint Mary's,UConn,2023,2,0
+TCU,Gonzaga,2023,2,0
+Northwestern,UCLA,2023,2,0
+Gonzaga,UCLA,2023,3,1
+Arkansas,UConn,2023,3,0
+UConn,Gonzaga,2023,4,1
+Florida Atlantic,San Diego State,2023,5,0
+Miami (FL),UConn,2023,5,0
+San Diego State,UConn,2023,6,0
+Baylor,Norfolk State,2022,1,1
+UNC,Marquette,2022,1,1
+Saint Mary's,Indiana,2022,1,1
+UCLA,Akron,2022,1,1
+Texas,Virginia Tech,2022,1,1
+Purdue,Yale,2022,1,1
+Murray State,San Francisco,2022,1,1
+Kentucky,St. Peter's,2022,1,0
+Baylor,UNC,2022,2,0
+Saint Mary's,UCLA,2022,2,0
+Texas,Purdue,2022,2,0
+Murray State,St. Peter's,2022,2,0
+UNC,UCLA,2022,3,1
+Purdue,St. Peter's,2022,3,0
+UNC,St. Peter's,2022,4,1
+Kansas,Texas Southern,2022,1,1
+San Diego State,Creighton,2022,1,0
+Iowa,Richmond,2022,1,0
+Providence,South Dakota State,2022,1,1
+LSU,Iowa State,2022,1,0
+Wisconsin,Colgate,2022,1,1
+USC,Miami (FL),2022,1,0
+Auburn,Jacksonville State,2022,1,1
+Miami (FL),Auburn,2022,2,1
+Iowa State,Wisconsin,2022,2,1
+Richmond,Providence,2022,2,0
+Kansas ,Creighton,2022,2,1
+Kansas,Providence,2022,3,1
+Iowa State,Miami (FL),2022,3,0
+Kansas,Miami (FL),2022,4,1
+Arizona,Wright State,2022,1,1
+Seton Hall,TCU,2022,1,0
+Houston,UAB,2022,1,1
+Illinois,Chattanooga,2022,1,1
+Colorado State,Michigan,2022,1,0
+Tennessee,Longwood,2022,1,1
+Ohio State,Loyola (IL),2022,1,1
+Villanova,Delaware,2022,1,1
+Ohio State,Villanova,2022,2,0
+Michigan,Tennessee,2022,2,1
+Houston,Illinois,2022,2,1
+Arizona,TCU,2022,2,1
+Arizona,Houston,2022,3,0
+Michigan,Villanova,2022,3,0
+Houston,Villanova,2022,4,0
+Gonzaga,Georgia State,2022,1,1
+Boise State,Memphis,2022,1,0
+UConn,New Mexico State,2022,1,0
+Arkansas,Vermont,2022,1,1
+Alabama,Notre Dame,2022,1,0
+Texas Tech,Montana State,2022,1,1
+Michigan State,Davidson,2022,1,1
+Duke,Cal State Fullerton,2022,1,1
+Michigan State,Duke,2022,2,0
+Notre Dame,Texas Tech,2022,2,0
+New Mexico State,Arkansas,2022,2,0
+Gonzaga,Memphis,2022,2,1
+Gonzaga,Arkansas,2022,3,0
+Texas Tech,Duke,2022,3,0
+Arkansas,Duke,2022,4,0
+Villanova,Kansas,2022,5,0
+Duke,UNC,2022,5,0
+Kansas,UNC,2022,6,1
+Michigan,Texas Southern,2021,1,1
+LSU,St. Bonaventure,2021,1,1
+Colorado,Georgetown,2021,1,1
+Florida State,UNC Greensboro,2021,1,1
+BYU,UCLA,2021,1,0
+Texas,Abilene Christian,2021,1,0
+UConn,Maryland,2021,1,0
+Alabama,Iona,2021,1,1
+Maryland,Alabama,2021,2,0
+UCLA,Alibene Christian,2021,2,1
+Colorado,Florida State,2021,2,0
+Michigan,LSU,2021,2,1
+Michigan,Florida State,2021,3,1
+UCLA,Alabama,2021,3,1
+Michigan,UCLA,2021,4,0
+Illinois,Drexel,2021,1,1
+Loyola (IL),Georgia Tech,2021,1,1
+Tennessee,Oregon State,2021,1,0
+Oklahoma State,Liberty,2021,1,1
+San Diego State,Syracuse,2021,1,0
+West Virginia,Morehead State,2021,1,1
+Clemson,Rutgers,2021,1,0
+Houston,Cleveland State,2021,1,1
+Illinois,Loyola (IL),2021,2,0
+Oregon State,Oklahoma State,2021,2,1
+Syracuse,West Virginia,2021,2,1
+Rutgers,Houston,2021,2,0
+Syracuse,Houston,2021,3,0
+Loyola (IL),Oregon State,2021,3,0
+Oregon State,Houston,2021,4,0
+Baylor,Hartford,2021,1,1
+UNC,Wisconsin,2021,1,0
+Villanova,Winthrop,2021,1,1
+Purdue,North Texas,2021,1,0
+Texas Tech,Utah State,2021,1,1
+Arkansas,Colgate,2021,1,1
+Florida,Virginia Tech,2021,1,1
+Ohio State,Oral Roberts,2021,1,0
+Florida,Oral Roberts,2021,2,0
+Texas Tech,Arkansas,2021,2,0
+Villanova,North Texas,2021,2,1
+Baylor,Wisconsin,2021,2,1
+Baylor,Villanova,2021,3,1
+Arkansas,Oral Roberts,2021,3,1
+Baylor,Arkansas,2021,4,1
+Gonzaga,Norfolk State,2021,1,1
+Oklahoma,Missouri,2021,1,1
+Creighton,UCSB,2021,1,1
+Virginia,Ohio,2021,1,0
+USC,Drake,2021,1,1
+Kansas,Eastern Washington,2021,1,1
+Oregon,VCU,2021,1,1
+Iowa,Grand Canyon,2021,1,1
+Oregon,Iowa,2021,2,1
+USC,Kansas,2021,2,1
+Creighton,Ohio,2021,2,1
+Gonzaga,Oklahoma,2021,2,1
+Gonzaga,Creighton,2021,3,1
+USC,Oregon,2021,3,1
+Gonzaga,USC,2021,4,1
+Baylor,Houston,2021,5,1
+Gonzaga,UCLA,2021,5,1
+Baylor,Gonzaga,2021,6,1
